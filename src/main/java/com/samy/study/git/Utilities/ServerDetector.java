@@ -106,7 +106,7 @@ public class ServerDetector {
 	public static void setSupportsHotDeploy(boolean supportsHotDeploy) {
 		getInstance()._supportsHotDeploy = supportsHotDeploy;
 		if (supportsHotDeploy) {
-			System.out.println("Server supports hot deploy");
+			System.out.println("Server supports hot deploy.");
 		} else {
 			System.out.println("Server does not support hot deploy");
 		}
