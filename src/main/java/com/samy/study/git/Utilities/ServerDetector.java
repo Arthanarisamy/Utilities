@@ -108,7 +108,7 @@ public class ServerDetector {
 		if (supportsHotDeploy) {
 			System.out.println("Server supports hot deploy");
 		} else {
-			System.out.println("Server does not support hot deploy");
+			System.out.println("Server does not support hot deploy1");
 		}
 	}
 
